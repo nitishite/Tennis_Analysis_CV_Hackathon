@@ -1,0 +1,4 @@
+# Ignore model files
+models/*.pth
+models/*.pt
+yolov8x.pt
