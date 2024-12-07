@@ -58,13 +58,13 @@ To run this project, ensure your system meets the following prerequisites:
 
 ### Installation:
 Install the required Python libraries using the command below:
-    ```bash
-    pip install ultralytics torch pandas numpy opencv-python
-    ```
+    
+    pip install ultralytics torch pandas numpy  opencv-python
+    
 ### How To Run
-    ```bash
+    
     python main.py
-    ```
+    
 
 ## How It Works
 1. Video Input: The input video of a tennis match is processed frame by frame.
